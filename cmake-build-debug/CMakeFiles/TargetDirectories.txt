@@ -1,0 +1,3 @@
+/home/cam/Desktop/Computer Science 1/Lab/Lab 9/cmake-build-debug/CMakeFiles/Lab_9.dir
+/home/cam/Desktop/Computer Science 1/Lab/Lab 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cam/Desktop/Computer Science 1/Lab/Lab 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
