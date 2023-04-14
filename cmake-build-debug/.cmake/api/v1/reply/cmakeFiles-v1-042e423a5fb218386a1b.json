@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -295,6 +300,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/app/extra/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -395,8 +415,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/cam/Desktop/Computer Science 1/Lab/Lab 9/cmake-build-debug",
-		"source" : "/home/cam/Desktop/Computer Science 1/Lab/Lab 9"
+		"build" : "/home/cam/CLionProjects/Lab-9/cmake-build-debug",
+		"source" : "/home/cam/CLionProjects/Lab-9"
 	},
 	"version" : 
 	{

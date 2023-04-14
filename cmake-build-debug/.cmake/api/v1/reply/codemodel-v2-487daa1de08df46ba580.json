@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/cam/Desktop/Computer Science 1/Lab/Lab 9/cmake-build-debug",
-		"source" : "/home/cam/Desktop/Computer Science 1/Lab/Lab 9"
+		"build" : "/home/cam/CLionProjects/Lab-9/cmake-build-debug",
+		"source" : "/home/cam/CLionProjects/Lab-9"
 	},
 	"version" : 
 	{
