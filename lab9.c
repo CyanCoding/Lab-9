@@ -88,6 +88,10 @@ void displayRecordsInHash(struct HashType *pHashArray, int hashSz)
             printf("%d, %c, %d -> ", pNode->pNode->id, pNode->pNode->name, pNode->pNode->order);
             pNode = pNode->pNext;
         }
+        if (pNode == NULL)
+            printf("NULL");
+
+
     }
 }
 
@@ -97,7 +101,7 @@ int main(void)
     struct RecordType* pRecords;
     int recordSize = 0;
 
-    recordSize = parseData("/home/cam/CLionProjects/Lab-9/input.txt", &pRecords);
+    recordSize = parseData("input.txt", &pRecords);
     printRecords(pRecords, recordSize);
 
     // Your hash implementation
